@@ -10,7 +10,7 @@ end
 
 boards = ["4"," "," "," ","o","o"," "," "," "]
 
-display_board(board)
+display_board(boards)
 
 def hi_name(name)
   puts "Hi my #{name}! and im a soccer player"
