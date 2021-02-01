@@ -2,7 +2,6 @@
 # out the current state.
 def display_board()
     puts " #{[0]} | #{1]} | #{[2]}"
-
 end
 
 boards = ["5"," "," ",]
@@ -14,3 +13,4 @@ def hi_name(name)
 end
 
 hi_name("Med")
+
