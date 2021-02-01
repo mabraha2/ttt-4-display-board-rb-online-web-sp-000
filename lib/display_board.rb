@@ -12,7 +12,8 @@ board = ["X"," "," "," ","o","o"," "," "," "]
 
 display_board(board)
 
-def Hi_name
+def Hi_name(name)
   puts "Hi my #{name}! and im a soccer player"
 end
+
 Hi_name
