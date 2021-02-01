@@ -16,4 +16,3 @@ def Hi_name
   puts "Hi my #{name}! and im a soccer player"
 end
 Hi_name
-
