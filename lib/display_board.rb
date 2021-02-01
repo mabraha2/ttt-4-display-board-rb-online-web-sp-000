@@ -17,4 +17,3 @@ def hi_name(name)
 end
 
 hi_name(Med)
-
