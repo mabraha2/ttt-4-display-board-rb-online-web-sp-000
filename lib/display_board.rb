@@ -2,7 +2,7 @@
 # out the current state.
 
 
-def hi_name()
+def hi_name(string)
   puts "Hi my #{name}! and im a soccer player"
 end
 
