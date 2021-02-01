@@ -16,4 +16,4 @@ def hi_name(name)
   puts "Hi my #{name}! and im a soccer player"
 end
 
-hi_name(Med)
+hi_name("Med")
